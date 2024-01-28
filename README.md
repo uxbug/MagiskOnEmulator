@@ -1,6 +1,10 @@
 Install Magisk On Official Android Emulator
 ===========================================
+fork from `https://github.com/shakalaca/MagiskOnEmulator`
 
+更新支持MacOS M芯片
+
+===========================================
 Works on Android API 22 - 30,S (except 28)
 
 0. Grab Magisk.zip (or Magisk.apk) and put in this directory. If you're using ARM system image, replace `busybox` with `busybox_arm`.
