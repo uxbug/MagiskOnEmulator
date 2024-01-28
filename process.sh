@@ -19,7 +19,7 @@ TMP_DIR=$BASE_DIR/tmp
 MAGISK_DIR=$BASE_DIR/magisk
 RAMDISK=$BASE_DIR/ramdisk.img
 INITRD=$BASE_DIR/initrd.img
-BUSYBOX=$BASE_DIR/busybox
+BUSYBOX=$BASE_DIR/busybox_arm64
 
 mkdir -p $TMP_DIR
 mkdir -p $MAGISK_DIR
