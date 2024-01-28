@@ -6,6 +6,8 @@ fork from `https://github.com/shakalaca/MagiskOnEmulator`
 测试API23 API29无问题
 可直接通过AVD Manager启动无需添加读写参数
 
+- 参考 `https://github.com/shakalaca/MagiskOnEmulator/issues/56`
+
 ===========================================
 Works on Android API 22 - 30,S (except 28)
 
